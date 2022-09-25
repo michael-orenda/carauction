@@ -1,4 +1,4 @@
-        {
+          {
           id: 1,
           make: 'Mazda',
           model: 'CX-3',
@@ -44,4 +44,5 @@
           grade: '3.5',
           location: 'Motorhub',
           date: '10 September 2023'
+        }
 
