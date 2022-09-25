@@ -1,5 +1,4 @@
-{
-    "cars": [
+"cars": [
         {
             "id": 1,
             "make": "Mazda",
@@ -48,4 +47,3 @@
             "date": "10 September 2023"
         }
     ]
-}
